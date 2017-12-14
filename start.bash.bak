@@ -1,0 +1,1 @@
+./ethdcrminer64 -epool us1.ethpool.org:3333 -ewal 0x2580D8ea34D27D3f827B20FDb3B803edC877E998 -epsw x

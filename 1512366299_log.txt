@@ -1,0 +1,32 @@
+22:44:59:644	d2e1a780	args: -epool eth-us-west1.nanopool.org:9999 -ewal 0x2580d8ea34d27d3f827b20fdb3b803edc877e998.charly/matthewberryhill@gmail.com -epsw x -mode 1 -ftime 10 
+22:44:59:644	d2e1a780	
+22:44:59:644	d2e1a780	ษออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออป
+22:44:59:644	d2e1a780	บ      Claymore's Dual ETH + DCR/SC/LBC/PASC GPU Miner v9.8      บ
+22:44:59:644	d2e1a780	ศออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออผ
+22:44:59:644	d2e1a780	
+22:44:59:844	d2e1a780	ETH: 5 pools are specified
+22:44:59:844	d2e1a780	Main Ethereum pool is eth-us-west1.nanopool.org:9999
+22:44:59:976	d2e1a780	OpenCL platform: NVIDIA CUDA
+22:44:59:976	d2e1a780	AMD OpenCL platform not found 
+22:45:00:133	d2e1a780	CUDA initializing...
+
+22:45:00:133	d2e1a780	NVIDIA Cards available: 5 
+22:45:00:133	d2e1a780	CUDA Driver Version/Runtime Version: 9.0/8.0
+22:45:00:135	d2e1a780	GPU #0: GeForce GTX 1070, 8114 MB available, 15 compute units, capability: 6.1
+
+22:45:00:136	d2e1a780	GPU #1: GeForce GTX 1070, 8114 MB available, 15 compute units, capability: 6.1
+
+22:45:00:153	d2e1a780	GPU #2: GeForce GTX 1070, 8114 MB available, 15 compute units, capability: 6.1
+
+22:45:00:160	d2e1a780	GPU #3: GeForce GTX 1070, 8114 MB available, 15 compute units, capability: 6.1
+
+22:45:00:167	d2e1a780	GPU #4: GeForce GTX 1070, 8114 MB available, 15 compute units, capability: 6.1
+
+22:45:00:167	d2e1a780	Total cards: 5 
+22:45:04:168	d2e1a780	No AMD cards in the list, ADL library will not be used.
+22:45:04:169	d2e1a780	NVML version: 9.384.98
+22:45:04:196	d2e1a780	NVML API: failed to get device handle 4, error 15.
+22:45:04:203	d2e1a780	NVML API: failed to get device handle 4, error 15.
+22:45:04:203	d2e1a780	NVML API: failed to get device handle 4, error 15.
+22:45:04:203	d2e1a780	NVML API: failed to get device handle 4, error 15.
+22:45:04:203	d2e1a780	NVML API: failed to get device handle 4, error 15.

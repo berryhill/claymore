@@ -1,0 +1,93 @@
+23:01:47:074	2abfa780	args: -epool eth-us-west1.nanopool.org:9999 -ewal 0x2580d8ea34d27d3f827b20fdb3b803edc877e998.charly/matthewberryhill@gmail.com -epsw x -mode 1 -ftime 10 
+23:01:47:074	2abfa780	
+23:01:47:074	2abfa780	ษออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออป
+23:01:47:074	2abfa780	บ      Claymore's Dual ETH + DCR/SC/LBC/PASC GPU Miner v9.8      บ
+23:01:47:074	2abfa780	ศออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออผ
+23:01:47:074	2abfa780	
+23:01:47:283	2abfa780	ETH: 5 pools are specified
+23:01:47:283	2abfa780	Main Ethereum pool is eth-us-west1.nanopool.org:9999
+23:01:47:612	2abfa780	OpenCL platform: NVIDIA CUDA
+23:01:47:612	2abfa780	AMD OpenCL platform not found 
+23:01:47:702	2abfa780	CUDA initializing...
+
+23:01:47:702	2abfa780	NVIDIA Cards available: 6 
+23:01:47:702	2abfa780	CUDA Driver Version/Runtime Version: 9.0/8.0
+23:01:47:703	2abfa780	GPU #0: GeForce GTX 1070, 8114 MB available, 15 compute units, capability: 6.1
+
+23:01:47:705	2abfa780	GPU #1: GeForce GTX 1070, 8114 MB available, 15 compute units, capability: 6.1
+
+23:01:47:707	2abfa780	GPU #2: GeForce GTX 1070, 8114 MB available, 15 compute units, capability: 6.1
+
+23:01:47:709	2abfa780	GPU #3: GeForce GTX 1070, 8114 MB available, 15 compute units, capability: 6.1
+
+23:01:47:711	2abfa780	GPU #4: GeForce GTX 1070, 8114 MB available, 15 compute units, capability: 6.1
+
+23:01:47:713	2abfa780	GPU #5: GeForce GTX 1070, 8114 MB available, 15 compute units, capability: 6.1
+
+23:01:47:713	2abfa780	Total cards: 6 
+23:01:51:714	2abfa780	No AMD cards in the list, ADL library will not be used.
+23:01:51:715	2abfa780	NVML version: 9.384.98
+23:01:53:021	d6ffd700	ETH: Stratum - connecting to 'eth-us-west1.nanopool.org' <45.32.71.82> port 9999
+23:01:53:064	d6ffd700	send: {"worker": "eth1.0", "jsonrpc": "2.0", "params": ["0x2580d8ea34d27d3f827b20fdb3b803edc877e998.charly/matthewberryhill@gmail.com", "x"], "id": 2, "method": "eth_submitLogin"}
+
+23:01:53:064	d6ffd700	ETH: Stratum - Connected (eth-us-west1.nanopool.org:9999)
+23:01:53:108	2abfa780	ETHEREUM-ONLY MINING MODE ENABLED (-mode 1)
+23:01:53:108	2abfa780	ETH: eth-proxy stratum mode
+23:01:53:108	2abfa780	Watchdog enabled
+23:01:53:108	2abfa780	Remote management (READ-ONLY MODE) is enabled on port 3333
+23:01:53:108	2abfa780	
+23:01:53:397	d6ffd700	got 282 bytes
+23:01:53:397	d6ffd700	buf: {"jsonrpc":"2.0","id":2,"result":true}
+{"jsonrpc":"2.0","id":0,"result":["0x2665452b10c4b26e90932ff4eeb699433df46ba51bc1c50dce4d5e575e2c3f6a","0x1e9891b51a83da3e735c71999400fc8927e8614e86fc37e618d3781578d5c939","0x00000000dbe6fecebdedd5beb573440e5a884d1b2fbf06fcce912adcb8d8422e"]}
+
+23:01:53:397	d6ffd700	parse packet: 38
+23:01:53:397	d6ffd700	ETH: Authorized
+23:01:53:398	d6ffd700	send: {"worker": "", "jsonrpc": "2.0", "params": [], "id": 3, "method": "eth_getWork"}
+
+23:01:53:398	d6ffd700	remove first packet 243
+23:01:53:398	d6ffd700	new buf size: 243
+23:01:53:398	d6ffd700	parse packet: 242
+23:01:53:398	d6ffd700	ETH: job changed
+23:01:53:398	d6ffd700	new buf size: 0
+23:01:53:413	ecff9700	Setting DAG epoch #155...
+23:01:53:581	d6ffd700	got 243 bytes
+23:01:53:581	d6ffd700	buf: {"jsonrpc":"2.0","id":0,"result":["0x2665452b10c4b26e90932ff4eeb699433df46ba51bc1c50dce4d5e575e2c3f6a","0x1e9891b51a83da3e735c71999400fc8927e8614e86fc37e618d3781578d5c939","0x00000000dbe6fecebdedd5beb573440e5a884d1b2fbf06fcce912adcb8d8422e"]}
+
+23:01:53:581	d6ffd700	parse packet: 242
+23:01:53:582	d6ffd700	ETH: job is the same
+23:01:53:582	d6ffd700	new buf size: 0
+23:01:55:683	ecff9700	Setting DAG epoch #155 for GPU1
+23:01:55:683	dcff9700	Setting DAG epoch #155 for GPU4
+23:01:55:683	edffb700	Setting DAG epoch #155 for GPU0
+23:01:55:683	d77fe700	Setting DAG epoch #155 for GPU5
+23:01:55:683	deffd700	Setting DAG epoch #155 for GPU2
+23:01:55:683	edffb700	Create GPU buffer for GPU0
+23:01:55:683	de7fc700	Setting DAG epoch #155 for GPU3
+23:01:55:683	de7fc700	Create GPU buffer for GPU3
+23:01:55:683	dcff9700	Create GPU buffer for GPU4
+23:01:55:683	ecff9700	Create GPU buffer for GPU1
+23:01:55:683	d77fe700	Create GPU buffer for GPU5
+23:01:55:687	deffd700	Create GPU buffer for GPU2
+23:02:02:788	dcff9700	GPU4 DAG creation time - 6815 ms
+23:02:02:788	dcff9700	Setting DAG epoch #155 for GPU4 done
+23:02:02:927	edffb700	GPU0 DAG creation time - 6914 ms
+23:02:02:927	edffb700	Setting DAG epoch #155 for GPU0 done
+23:02:02:977	deffd700	GPU2 DAG creation time - 6786 ms
+23:02:02:977	deffd700	Setting DAG epoch #155 for GPU2 done
+23:02:03:002	de7fc700	GPU3 DAG creation time - 6815 ms
+23:02:03:002	de7fc700	Setting DAG epoch #155 for GPU3 done
+23:02:03:003	d77fe700	GPU5 DAG creation time - 6769 ms
+23:02:03:003	d77fe700	Setting DAG epoch #155 for GPU5 done
+23:02:03:038	ecff9700	GPU1 DAG creation time - 6785 ms
+23:02:03:038	ecff9700	Setting DAG epoch #155 for GPU1 done
+23:02:03:399	d6ffd700	ETH: checking pool connection...
+23:02:03:399	d6ffd700	send: {"worker": "", "jsonrpc": "2.0", "params": [], "id": 3, "method": "eth_getWork"}
+
+23:02:03:584	d6ffd700	got 243 bytes
+23:02:03:584	d6ffd700	buf: {"jsonrpc":"2.0","id":0,"result":["0x2665452b10c4b26e90932ff4eeb699433df46ba51bc1c50dce4d5e575e2c3f6a","0x1e9891b51a83da3e735c71999400fc8927e8614e86fc37e618d3781578d5c939","0x00000000dbe6fecebdedd5beb573440e5a884d1b2fbf06fcce912adcb8d8422e"]}
+
+23:02:03:584	d6ffd700	parse packet: 242
+23:02:03:584	d6ffd700	ETH: job is the same
+23:02:03:584	d6ffd700	new buf size: 0
+23:02:05:433	2abfa780	Quit signal received...
+23:02:06:341	240fd700	Quit signal received...

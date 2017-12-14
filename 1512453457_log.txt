@@ -1,0 +1,38 @@
+22:57:37:289	67ca4780	args: -epool eth-us-west1.nanopool.org:9999 -ewal 0x2580d8ea34d27d3f827b20fdb3b803edc877e998.charly/matthewberryhill@gmail.com -epsw x -mode 1 -ftime 10 
+22:57:37:289	67ca4780	
+22:57:37:289	67ca4780	ษออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออป
+22:57:37:289	67ca4780	บ      Claymore's Dual ETH + DCR/SC/LBC/PASC GPU Miner v9.8      บ
+22:57:37:289	67ca4780	ศออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออผ
+22:57:37:289	67ca4780	
+22:57:37:490	67ca4780	ETH: 5 pools are specified
+22:57:37:490	67ca4780	Main Ethereum pool is eth-us-west1.nanopool.org:9999
+22:57:37:801	67ca4780	OpenCL platform: NVIDIA CUDA
+22:57:37:801	67ca4780	AMD OpenCL platform not found 
+22:57:37:883	67ca4780	CUDA initializing...
+
+22:57:37:883	67ca4780	NVIDIA Cards available: 6 
+22:57:37:883	67ca4780	CUDA Driver Version/Runtime Version: 9.0/8.0
+22:57:37:885	67ca4780	GPU #0: GeForce GTX 1070, 8114 MB available, 15 compute units, capability: 6.1
+
+22:57:37:887	67ca4780	GPU #1: GeForce GTX 1070, 8114 MB available, 15 compute units, capability: 6.1
+
+22:57:37:889	67ca4780	GPU #2: GeForce GTX 1070, 8114 MB available, 15 compute units, capability: 6.1
+
+22:57:37:891	67ca4780	GPU #3: GeForce GTX 1070, 8114 MB available, 15 compute units, capability: 6.1
+
+22:57:37:893	67ca4780	GPU #4: GeForce GTX 1070, 8114 MB available, 15 compute units, capability: 6.1
+
+22:57:37:895	67ca4780	GPU #5: GeForce GTX 1070, 8114 MB available, 15 compute units, capability: 6.1
+
+22:57:37:895	67ca4780	Total cards: 6 
+22:57:41:896	67ca4780	No AMD cards in the list, ADL library will not be used.
+22:57:41:900	67ca4780	NVML version: 9.384.98
+22:57:43:256	13fff700	ETH: Stratum - connecting to 'eth-us-west1.nanopool.org' <45.76.65.223> port 9999
+22:57:43:299	13fff700	send: {"worker": "eth1.0", "jsonrpc": "2.0", "params": ["0x2580d8ea34d27d3f827b20fdb3b803edc877e998.charly/matthewberryhill@gmail.com", "x"], "id": 2, "method": "eth_submitLogin"}
+
+22:57:43:300	13fff700	ETH: Stratum - Connected (eth-us-west1.nanopool.org:9999)
+22:57:43:342	67ca4780	ETHEREUM-ONLY MINING MODE ENABLED (-mode 1)
+22:57:43:342	67ca4780	ETH: eth-proxy stratum mode
+22:57:43:342	67ca4780	Watchdog enabled
+22:57:43:342	67ca4780	Remote management (READ-ONLY MODE) is enabled on port 3333
+22:57:43:342	67ca4780	

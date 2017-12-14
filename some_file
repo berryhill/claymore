@@ -1,0 +1,37 @@
+./ethdcrminer64: /usr/local/cuda-8.0/targets/x86_64-linux/lib/libOpenCL.so.1: no version information available (required by ./ethdcrminer64)
+
+ษออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออป
+บ      Claymore's Dual ETH + DCR/SC/LBC/PASC GPU Miner v9.8      บ
+ศออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออผ
+
+ETH: 5 pools are specified
+Main Ethereum pool is eth-us-west1.nanopool.org:9999
+AMD OpenCL platform not found 
+
+Driver 368.81 is recommended for best performance and compatibility
+Be careful with overclocking, use default clocks for first tests
+Press "s" for current statistics, "0".."9" to turn on/off cards, "r" to reload pools, "e" or "d" to select current pool 
+CUDA initializing...
+
+NVIDIA Cards available: 6 
+[1;32mCUDA Driver Version/Runtime Version: 9.0/8.0
+[0m[1;32mGPU #0: GeForce GTX 1070, 8114 MB available, 15 compute units, capability: 6.1
+
+[0m[1;32mGPU #1: GeForce GTX 1070, 8114 MB available, 15 compute units, capability: 6.1
+
+[0m[1;32mGPU #2: GeForce GTX 1070, 8114 MB available, 15 compute units, capability: 6.1
+
+[0m[1;32mGPU #3: GeForce GTX 1070, 8114 MB available, 15 compute units, capability: 6.1
+
+[0m[1;32mGPU #4: GeForce GTX 1070, 8114 MB available, 15 compute units, capability: 6.1
+
+[0m[1;32mGPU #5: GeForce GTX 1070, 8114 MB available, 15 compute units, capability: 6.1
+
+[0m[1;32mTotal cards: 6 
+[0mETH: Stratum - connecting to 'eth-us-west1.nanopool.org' <45.76.65.223> port 9999
+[1;32mETH: Stratum - Connected (eth-us-west1.nanopool.org:9999)
+[0m[0;36mETHEREUM-ONLY MINING MODE ENABLED (-mode 1)
+[0mETH: eth-proxy stratum mode
+Watchdog enabled
+Remote management (READ-ONLY MODE) is enabled on port 3333
+
